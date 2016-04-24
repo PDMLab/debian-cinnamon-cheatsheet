@@ -30,3 +30,10 @@ This cheat sheet provides tips and tricks for [Debian 8.x (Jessie)](https://www.
 
   Edit `/usr/share/cinnamon/theme/cinnamon.css` (`sudo`) and change the style of the `.panel-launcher` selector.    
   Add `padding-left: 7px;`
+  
+* Change icon size in quick launch:    
+  Launch Panel properties by right clicking it. Then change the highlighted settings:   
+  ![](images/launcher-icon-size.png)
+
+  Result:    
+  ![](images/launcher-icon-large.png)
