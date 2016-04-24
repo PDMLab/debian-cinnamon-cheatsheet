@@ -20,4 +20,13 @@ This cheat sheet provides tips and tricks for [Debian 8.x (Jessie)](https://www.
 * Open Home folder with a keyboard shortcut (e.g. ALT+e):
   Go to `Keyboard` in `Preferences` and select `Keyboard shortcuts`. Open the `Launchers` tab and select `Home Folder`.    
   Clickt into `Keyboard bindings` and type the shortcut you want.
-  
+
+* Change icon spacing in quick launch:    
+  default:    
+  ![](images/launcher-icon-small-padding.png)
+ 
+  increased spacing:    
+  ![](images/launcher-icon-large-padding.png)
+
+  Edit `/usr/share/cinnamon/theme/cinnamon.css` (`sudo`) and change the style of the `.panel-launcher` selector.    
+  Add `padding-left: 7px;`
