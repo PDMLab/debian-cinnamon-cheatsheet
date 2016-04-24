@@ -14,5 +14,5 @@ This cheat sheet provides tips and tricks for [Debian 8.x (Jessie)](https://www.
 * Make Nautilus the default file manager:    
   `xdg-mime default nautilus.desktop inode/directory application/x-gnome-saved-search`
 
-* Pin program icon to Panel / Taskbar (beneath the WebStorm / Chrome etc. icon in the screenshot):   
+* Pin program icon to Panel / Taskbar (beneath the WebStorm / Chrome etc. icons in the screenshot):   
 ![](images/pinprogramtopanel.png)
