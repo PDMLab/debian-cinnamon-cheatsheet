@@ -16,3 +16,8 @@ This cheat sheet provides tips and tricks for [Debian 8.x (Jessie)](https://www.
 
 * Pin program icon to Panel / Taskbar (beneath the WebStorm / Chrome etc. icons in the screenshot):   
 ![](images/pinprogramtopanel.png)
+
+* Open Home folder with a keyboard shortcut (e.g. ALT+e):
+  Go to `Keyboard` in `Preferences` and select `Keyboard shortcuts`. Open the `Launchers` tab and select `Home Folder`.    
+  Clickt into `Keyboard bindings` and type the shortcut you want.
+  
